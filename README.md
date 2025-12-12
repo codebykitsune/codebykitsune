@@ -11,7 +11,6 @@ Here are some ideas to get you started:-->
 - 💻 Passionate about building web and mobile apps with:  
 React, Firebase, Golang, Node.js, OpenAI API, Swift  
 
-- 📌 Exploring opportunities for an internship (OPT)  
 - 💡 I love hackathons and collaborative coding challenges!  
 - 😄 Pronouns: she/her
 
